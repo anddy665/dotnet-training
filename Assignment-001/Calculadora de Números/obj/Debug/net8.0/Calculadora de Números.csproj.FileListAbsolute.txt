@@ -1,0 +1,14 @@
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\bin\Debug\net8.0\Calculadora de Números.exe
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\bin\Debug\net8.0\Calculadora de Números.deps.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\bin\Debug\net8.0\Calculadora de Números.runtimeconfig.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\bin\Debug\net8.0\Calculadora de Números.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\bin\Debug\net8.0\Calculadora de Números.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\obj\Debug\net8.0\Calculadora de Números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\obj\Debug\net8.0\Calculadora de Números.AssemblyInfoInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\obj\Debug\net8.0\Calculadora de Números.AssemblyInfo.cs
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\obj\Debug\net8.0\Calculadora de Números.csproj.CoreCompileInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\obj\Debug\net8.0\Calculadora de Números.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\obj\Debug\net8.0\refint\Calculadora de Números.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\obj\Debug\net8.0\Calculadora de Números.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\obj\Debug\net8.0\Calculadora de Números.genruntimeconfig.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Calculadora de Números\obj\Debug\net8.0\ref\Calculadora de Números.dll

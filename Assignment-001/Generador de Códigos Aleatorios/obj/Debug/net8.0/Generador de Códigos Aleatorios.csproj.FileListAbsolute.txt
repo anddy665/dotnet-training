@@ -1,0 +1,14 @@
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\bin\Debug\net8.0\Generador de Códigos Aleatorios.exe
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\bin\Debug\net8.0\Generador de Códigos Aleatorios.deps.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\bin\Debug\net8.0\Generador de Códigos Aleatorios.runtimeconfig.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\bin\Debug\net8.0\Generador de Códigos Aleatorios.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\bin\Debug\net8.0\Generador de Códigos Aleatorios.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\obj\Debug\net8.0\Generador de Códigos Aleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\obj\Debug\net8.0\Generador de Códigos Aleatorios.AssemblyInfoInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\obj\Debug\net8.0\Generador de Códigos Aleatorios.AssemblyInfo.cs
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\obj\Debug\net8.0\Generador de Códigos Aleatorios.csproj.CoreCompileInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\obj\Debug\net8.0\Generador de Códigos Aleatorios.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\obj\Debug\net8.0\refint\Generador de Códigos Aleatorios.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\obj\Debug\net8.0\Generador de Códigos Aleatorios.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\obj\Debug\net8.0\Generador de Códigos Aleatorios.genruntimeconfig.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Generador de Códigos Aleatorios\obj\Debug\net8.0\ref\Generador de Códigos Aleatorios.dll

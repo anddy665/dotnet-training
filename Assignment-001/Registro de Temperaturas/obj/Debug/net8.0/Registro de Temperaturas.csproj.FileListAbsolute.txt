@@ -1,0 +1,14 @@
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\bin\Debug\net8.0\Registro de Temperaturas.exe
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\bin\Debug\net8.0\Registro de Temperaturas.deps.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\bin\Debug\net8.0\Registro de Temperaturas.runtimeconfig.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\bin\Debug\net8.0\Registro de Temperaturas.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\bin\Debug\net8.0\Registro de Temperaturas.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\obj\Debug\net8.0\Registro de Temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\obj\Debug\net8.0\Registro de Temperaturas.AssemblyInfoInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\obj\Debug\net8.0\Registro de Temperaturas.AssemblyInfo.cs
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\obj\Debug\net8.0\Registro de Temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\obj\Debug\net8.0\Registro de Temperaturas.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\obj\Debug\net8.0\refint\Registro de Temperaturas.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\obj\Debug\net8.0\Registro de Temperaturas.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\obj\Debug\net8.0\Registro de Temperaturas.genruntimeconfig.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Temperaturas\obj\Debug\net8.0\ref\Registro de Temperaturas.dll

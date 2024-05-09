@@ -1,0 +1,14 @@
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\bin\Debug\net8.0\Conversor de Unidades.exe
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\bin\Debug\net8.0\Conversor de Unidades.deps.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\bin\Debug\net8.0\Conversor de Unidades.runtimeconfig.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\bin\Debug\net8.0\Conversor de Unidades.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\bin\Debug\net8.0\Conversor de Unidades.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\obj\Debug\net8.0\Conversor de Unidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\obj\Debug\net8.0\Conversor de Unidades.AssemblyInfoInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\obj\Debug\net8.0\Conversor de Unidades.AssemblyInfo.cs
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\obj\Debug\net8.0\Conversor de Unidades.csproj.CoreCompileInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\obj\Debug\net8.0\Conversor de Unidades.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\obj\Debug\net8.0\refint\Conversor de Unidades.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\obj\Debug\net8.0\Conversor de Unidades.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\obj\Debug\net8.0\Conversor de Unidades.genruntimeconfig.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Conversor de Unidades\obj\Debug\net8.0\ref\Conversor de Unidades.dll

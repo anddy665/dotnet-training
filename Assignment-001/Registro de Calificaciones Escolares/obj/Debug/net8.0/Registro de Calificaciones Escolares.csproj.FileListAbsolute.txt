@@ -1,0 +1,14 @@
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\bin\Debug\net8.0\Registro de Calificaciones Escolares.exe
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\bin\Debug\net8.0\Registro de Calificaciones Escolares.deps.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\bin\Debug\net8.0\Registro de Calificaciones Escolares.runtimeconfig.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\bin\Debug\net8.0\Registro de Calificaciones Escolares.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\bin\Debug\net8.0\Registro de Calificaciones Escolares.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\obj\Debug\net8.0\Registro de Calificaciones Escolares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\obj\Debug\net8.0\Registro de Calificaciones Escolares.AssemblyInfoInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\obj\Debug\net8.0\Registro de Calificaciones Escolares.AssemblyInfo.cs
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\obj\Debug\net8.0\Registro de Calificaciones Escolares.csproj.CoreCompileInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\obj\Debug\net8.0\Registro de Calificaciones Escolares.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\obj\Debug\net8.0\refint\Registro de Calificaciones Escolares.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\obj\Debug\net8.0\Registro de Calificaciones Escolares.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\obj\Debug\net8.0\Registro de Calificaciones Escolares.genruntimeconfig.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-001\Registro de Calificaciones Escolares\obj\Debug\net8.0\ref\Registro de Calificaciones Escolares.dll
