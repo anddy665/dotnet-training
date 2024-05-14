@@ -1,0 +1,15 @@
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\obj\Debug\net8.0\Sistema de Registro de Productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\obj\Debug\net8.0\Sistema de Registro de Productos.AssemblyInfoInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\obj\Debug\net8.0\Sistema de Registro de Productos.AssemblyInfo.cs
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\obj\Debug\net8.0\Sistema de Registro de Productos.csproj.CoreCompileInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\obj\Debug\net8.0\Sistema de Registro de Productos.sourcelink.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\bin\Debug\net8.0\Sistema de Registro de Productos.exe
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\bin\Debug\net8.0\Sistema de Registro de Productos.deps.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\bin\Debug\net8.0\Sistema de Registro de Productos.runtimeconfig.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\bin\Debug\net8.0\Sistema de Registro de Productos.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\bin\Debug\net8.0\Sistema de Registro de Productos.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\obj\Debug\net8.0\Sistema de Registro de Productos.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\obj\Debug\net8.0\refint\Sistema de Registro de Productos.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\obj\Debug\net8.0\Sistema de Registro de Productos.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\obj\Debug\net8.0\Sistema de Registro de Productos.genruntimeconfig.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-002\Sistema de Registro de Productos\obj\Debug\net8.0\ref\Sistema de Registro de Productos.dll
