@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\WebApplication1\\Sistema de Registro de productos web.csproj",
+      "projectName": "Sistema de Registro de productos web",
+      "projectPath": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\WebApplication1\\Sistema de Registro de productos web.csproj",
       "packagesPath": "C:\\Users\\andhy\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",

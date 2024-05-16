@@ -1,0 +1,31 @@
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\bin\Debug\net8.0\Sistema de Registro de productos web.staticwebassets.runtime.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\bin\Debug\net8.0\Sistema de Registro de productos web.exe
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\bin\Debug\net8.0\Sistema de Registro de productos web.deps.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\bin\Debug\net8.0\Sistema de Registro de productos web.runtimeconfig.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\bin\Debug\net8.0\Sistema de Registro de productos web.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\bin\Debug\net8.0\Sistema de Registro de productos web.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\Sistema de Registro de productos web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\Sistema de Registro de productos web.AssemblyInfoInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\Sistema de Registro de productos web.AssemblyInfo.cs
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\Sistema de Registro de productos web.csproj.CoreCompileInputs.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\Sistema de Registro de productos web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\Sistema de Registro de productos web.RazorAssemblyInfo.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\Sistema de Registro de productos web.RazorAssemblyInfo.cs
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\Sistema de Registro de productos web.sourcelink.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.Sistema de Registro de productos web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.Sistema de Registro de productos web.props
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Sistema de Registro de productos web.props
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Sistema de Registro de productos web.props
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\Sistema de Registro de productos web.styles.css
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\Sistema de Registro de productos web.bundle.scp.css
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\Sistema de Registro de productos web.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\refint\Sistema de Registro de productos web.dll
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\Sistema de Registro de productos web.pdb
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\Sistema de Registro de productos web.genruntimeconfig.cache
+C:\Users\andhy\Documents\dotnet-training\Assignment-003\WebApplication1\obj\Debug\net8.0\ref\Sistema de Registro de productos web.dll

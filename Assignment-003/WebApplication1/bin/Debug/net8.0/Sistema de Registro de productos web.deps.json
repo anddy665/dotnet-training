@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sistema de Registro de productos web/1.0.0": {
+        "runtime": {
+          "Sistema de Registro de productos web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema de Registro de productos web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
