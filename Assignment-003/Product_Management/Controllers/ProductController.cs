@@ -1,18 +1,21 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Product_Management.Interfaces;
 using Product_Management.Models;
 
 namespace Product_Management.Controllers
 {
     public class ProductController : Controller
     {
-        private static List<Product> products = new List<Product>
+        private readonly IProductService _productService;
+
+        public ProductController(IProductService productService)
         {
-            new Product { Code = 1, Name = "Laptop", Description = "High-end laptop", Price = 1500.00, Stock = 10, Category = "Electronics" },
-            new Product { Code = 2, Name = "Smartphone", Description = "Latest model smartphone", Price = 800.00, Stock = 20, Category = "Electronics" }
-        };
+            _productService = productService;
+        }
 
         public IActionResult Index()
         {
+            var products = _productService.GetAllProducts();
             return View(products);
         }
 
@@ -26,7 +29,7 @@ namespace Product_Management.Controllers
         {
             if (ModelState.IsValid)
             {
-                products.Add(product);
+                _productService.AddProduct(product);
                 return RedirectToAction("Index");
             }
             return View(product);
@@ -34,7 +37,7 @@ namespace Product_Management.Controllers
 
         public IActionResult Edit(int code)
         {
-            var product = products.FirstOrDefault(p => p.Code == code);
+            var product = _productService.GetProductByCode(code);
             if (product == null)
             {
                 return NotFound();
@@ -45,14 +48,9 @@ namespace Product_Management.Controllers
         [HttpPost]
         public IActionResult Edit(Product product)
         {
-            var existingProduct = products.FirstOrDefault(p => p.Code == product.Code);
-            if (existingProduct != null)
+            if (ModelState.IsValid)
             {
-                existingProduct.Name = product.Name;
-                existingProduct.Description = product.Description;
-                existingProduct.Price = product.Price;
-                existingProduct.Stock = product.Stock;
-                existingProduct.Category = product.Category;
+                _productService.UpdateProduct(product);
                 return RedirectToAction("Index");
             }
             return View(product);
@@ -60,7 +58,7 @@ namespace Product_Management.Controllers
 
         public IActionResult Delete(int code)
         {
-            var product = products.FirstOrDefault(p => p.Code == code);
+            var product = _productService.GetProductByCode(code);
             if (product == null)
             {
                 return NotFound();
@@ -71,13 +69,8 @@ namespace Product_Management.Controllers
         [HttpPost, ActionName("Delete")]
         public IActionResult DeleteConfirmed(int code)
         {
-            var product = products.FirstOrDefault(p => p.Code == code);
-            if (product != null)
-            {
-                products.Remove(product);
-                return RedirectToAction("Index");
-            }
-            return NotFound();
+            _productService.DeleteProduct(code);
+            return RedirectToAction("Index");
         }
     }
 }

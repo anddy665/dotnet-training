@@ -1,12 +1,116 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\Sistema de Registro de Productos\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T22:16:58.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T19:30:06.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Program.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Program.cs",
+              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:26:57.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Services\\ProductService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:25:34.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:50:46.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwB8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:49:46.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
