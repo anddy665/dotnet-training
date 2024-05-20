@@ -1,11 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Product_Management.Interfaces;
 
 namespace Product_Management.Controllers;
 
 public class AccountController : Controller
 {
-    private const string UsuarioCorrecto = "admin";
-    private const string ContraseñaCorrecta = "admin123";
+    private readonly IAuthService _authService;
+
+    public AccountController(IAuthService authService)
+    {
+        _authService = authService;
+    }
 
     public IActionResult Login()
     {
@@ -13,9 +18,9 @@ public class AccountController : Controller
     }
 
     [HttpPost]
-    public IActionResult Login(string usuario, string contraseña)
+    public IActionResult Login(string user, string password)
     {
-        if (usuario == UsuarioCorrecto && contraseña == ContraseñaCorrecta)
+        if (_authService.ValidateUser(user, password))
         {
             return RedirectToAction("Index", "Product");
         }
