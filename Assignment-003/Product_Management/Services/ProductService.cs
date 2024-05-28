@@ -1,5 +1,6 @@
 ﻿using Product_Management.Interfaces;
 using Product_Management.Models;
+using Product_Management.Data;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -7,30 +8,32 @@ namespace Product_Management.Services
 {
     public class ProductService : IProductService
     {
-        private readonly List<Product> _products;
+        private readonly AppDbContext _context;
 
-        public ProductService()
+        public ProductService(AppDbContext context)
         {
-            _products = new List<Product>
-            {
-                new Product { Code = 1, Name = "Laptop", Description = "High-end laptop", Price = 1500.00, Stock = 10, Category = "Electronics" },
-                new Product { Code = 2, Name = "Smartphone", Description = "Latest model smartphone", Price = 800.00, Stock = 20, Category = "Electronics" }
-            };
+            _context = context;
         }
 
         public IEnumerable<Product> GetAllProducts()
         {
-            return _products;
+            return _context.Products.ToList();
+        }
+
+        public IEnumerable<Product> GetProductsByUserId(int userId)
+        {
+            return _context.Products.Where(p => p.UserId == userId).ToList();
         }
 
         public Product GetProductByCode(int code)
         {
-            return _products.FirstOrDefault(p => p.Code == code);
+            return _context.Products.FirstOrDefault(p => p.Code == code);
         }
 
         public void AddProduct(Product product)
         {
-            _products.Add(product);
+            _context.Products.Add(product);
+            _context.SaveChanges();
         }
 
         public void UpdateProduct(Product product)
@@ -43,6 +46,7 @@ namespace Product_Management.Services
                 existingProduct.Price = product.Price;
                 existingProduct.Stock = product.Stock;
                 existingProduct.Category = product.Category;
+                _context.SaveChanges();
             }
         }
 
@@ -51,7 +55,8 @@ namespace Product_Management.Services
             var product = GetProductByCode(code);
             if (product != null)
             {
-                _products.Remove(product);
+                _context.Products.Remove(product);
+                _context.SaveChanges();
             }
         }
     }
