@@ -3,31 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\Sistema de Registro de Productos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993F96EC-C211-46F2-85D6-FB0349E9D8C6}|..\\..\\Assignment-003\\Product_Management\\Product_Management.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-003\\product_management\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\data\\notesappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\models\\notetag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,123 +49,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Interfaces\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAFYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T22:06:42.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAmwEkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T22:04:34.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Program.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Program.cs",
-              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAmwDMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T21:56:31.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Services\\ProductService.cs",
-              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Services\\ProductService.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAmwD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T21:53:59.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Models\\User.cs",
-              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Models\\User.cs",
-              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T16:57:00.521Z",
+              "WhenOpened": "2024-06-03T22:28:00.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T19:53:56.831Z",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:23:12.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Services\\AuthService.cs",
-              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Services\\AuthService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAJAAAA",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Services\\CategoryService.cs",
+              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T16:53:29.976Z",
+              "WhenOpened": "2024-06-03T22:15:14.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:14:20.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:33:19.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:29:58.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Models\\Product.cs",
-              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Models\\Product.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Program.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Program.cs",
+              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T16:47:41.807Z",
+              "WhenOpened": "2024-06-03T16:24:14.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "..\\..\\Assignment-003\\Product_Management\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-003\\Product_Management\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "..\\..\\Assignment-003\\Product_Management\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA5wC8AAAANAAAA",
+              "DocumentIndex": 8,
+              "Title": "NotesAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Data\\NotesAppContext.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Data\\NotesAppContext.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Data\\NotesAppContext.cs",
+              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Data\\NotesAppContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T19:44:25.348Z",
+              "WhenOpened": "2024-06-03T15:48:06.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NoteTag.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\NoteTag.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Models\\NoteTag.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\NoteTag.cs",
+              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Models\\NoteTag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:45:30.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\Tag.cs",
+              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:43:57.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\Note.cs",
+              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Models\\Note.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:40:08.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\Category.cs",
+              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:36:58.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\User.cs",
+              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:32:42.052Z",
               "EditorCaption": ""
             }
           ]

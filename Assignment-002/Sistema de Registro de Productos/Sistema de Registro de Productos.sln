@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistema de Registro de Prod
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product_Management", "..\..\Assignment-003\Product_Management\Product_Management.csproj", "{993F96EC-C211-46F2-85D6-FB0349E9D8C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListWithLambdaAndLinq", "..\ToDoListWithLambdaAndLinq\ToDoListWithLambdaAndLinq.csproj", "{54925315-CB77-4EA2-AF46-2BA8315709B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{993F96EC-C211-46F2-85D6-FB0349E9D8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{993F96EC-C211-46F2-85D6-FB0349E9D8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{993F96EC-C211-46F2-85D6-FB0349E9D8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54925315-CB77-4EA2-AF46-2BA8315709B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54925315-CB77-4EA2-AF46-2BA8315709B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54925315-CB77-4EA2-AF46-2BA8315709B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54925315-CB77-4EA2-AF46-2BA8315709B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
