@@ -1,16 +1,14 @@
 ﻿using ToDoListWithLambdaAndLinq.Data;
 using ToDoListWithLambdaAndLinq.Interfaces;
 using ToDoListWithLambdaAndLinq.Models;
-using System.Collections.Generic;
-using System.Linq;
 
-namespace ToDoListWithLambdaAndLinq.Services
+namespace ToDoListWithLambdaAndLinq.Repositories
 {
-    public class CategoryService : ICategoryService
+    public class CategoryRepository : ICategoryRepository
     {
         private readonly NotesAppContext _context;
 
-        public CategoryService(NotesAppContext context)
+        public CategoryRepository(NotesAppContext context)
         {
             _context = context;
         }
@@ -22,9 +20,16 @@ namespace ToDoListWithLambdaAndLinq.Services
 
         public Category GetCategoryById(int categoryId)
         {
-            return (from category in _context.Categories
-                    where category.Id == categoryId
-                    select category).FirstOrDefault();
+            var category = (from c in _context.Categories
+                            where c.Id == categoryId
+                            select c).FirstOrDefault();
+
+            if (category == null)
+            {
+                throw new Exception($"Category with ID {categoryId} not found.");
+            }
+
+            return category;
         }
 
         public void CreateCategory(Category category)

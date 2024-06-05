@@ -1,13 +1,31 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 using Microsoft.EntityFrameworkCore;
 using ToDoListWithLambdaAndLinq.Data;
 using ToDoListWithLambdaAndLinq.Interfaces;
-using ToDoListWithLambdaAndLinq.Models;
-using ToDoListWithLambdaAndLinq.Services;
+using Microsoft.AspNetCore.Identity;
+using ToDoListWithLambdaAndLinq.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var jwtKey = builder.Configuration.GetSection("Jwt:Key").Get<string>() ?? string.Empty;
+
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options =>
+    {
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = false,
+            ValidateAudience = false,
+            ValidateLifetime = true,
+            ValidateIssuerSigningKey = true,
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtKey))
+        };
+    });
 
 // Configure EF Core with SQL Server
 builder.Services.AddDbContext<NotesAppContext>(options =>
@@ -16,8 +34,11 @@ builder.Services.AddDbContext<NotesAppContext>(options =>
 });
 
 // Register services
-builder.Services.AddScoped<IUserService, UserService>();
-builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<ILoginRepository, LoginRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<INoteRepository, NoteRepository>();
+builder.Services.AddScoped<ITagRepository, TagRepository>();
 
 var app = builder.Build();
 

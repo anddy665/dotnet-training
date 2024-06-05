@@ -1,32 +1,32 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ToDoListWithLambdaAndLinq.Models;
 using ToDoListWithLambdaAndLinq.Interfaces;
+using ToDoListWithLambdaAndLinq.Models;
 
 namespace ToDoListWithLambdaAndLinq.Controllers
 {
-    public class UserController : Controller
+    public class TagController : Controller
     {
-        private readonly IUserRepository _userRepository;
+        private readonly ITagRepository _tagRepository;
 
-        public UserController(IUserRepository userService)
+        public TagController(ITagRepository tagService)
         {
-            _userRepository = userService;
+            _tagRepository = tagService;
         }
 
         public IActionResult Index()
         {
-            var users = _userRepository.GetAllUsers();
-            return View(users);
+            var tags = _tagRepository.GetAllTags();
+            return View(tags);
         }
 
         public IActionResult Details(int id)
         {
-            var user = _userRepository.GetUserById(id);
-            if (user == null)
+            var tag = _tagRepository.GetTagById(id);
+            if (tag == null)
             {
                 return NotFound();
             }
-            return View(user);
+            return View(tag);
         }
 
         public IActionResult Create()
@@ -36,53 +36,57 @@ namespace ToDoListWithLambdaAndLinq.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(User user)
+        public IActionResult Create(Tag tag)
         {
             if (ModelState.IsValid)
             {
-                _userRepository.CreateUser(user);
-                return RedirectToAction("Index");
+                _tagRepository.CreateTag(tag);
+                return RedirectToAction(nameof(Index));
             }
-            return View(user);
+            return View(tag);
         }
 
         public IActionResult Edit(int id)
         {
-            var user = _userRepository.GetUserById(id);
-            if (user == null)
+            var tag = _tagRepository.GetTagById(id);
+            if (tag == null)
             {
                 return NotFound();
             }
-            return View(user);
+            return View(tag);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(User user)
+        public IActionResult Edit(int id, Tag tag)
         {
-            if (ModelState.IsValid)
-            {
-                _userRepository.UpdateUser(user);
-                return RedirectToAction(nameof(Index));
-            }
-            return View(user);
-        }
-
-        public IActionResult Delete(int id)
-        {
-            var user = _userRepository.GetUserById(id);
-            if (user == null)
+            if (id != tag.Id)
             {
                 return NotFound();
             }
-            return View(user);
+
+            if (ModelState.IsValid)
+            {
+                _tagRepository.UpdateTag(tag);
+                return RedirectToAction(nameof(Index));
+            }
+            return View(tag);
+        }
+
+        public IActionResult Delete(int id) {
+            var tag = _tagRepository.GetTagById(id);
+            if (tag == null)
+            {
+                return NotFound();
+            }
+            return View(tag);
         }
 
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public IActionResult DeleteConfirmed(int id)
         {
-            _userRepository.DeleteUser(id);
+            _tagRepository.DeleteTag(id);
             return RedirectToAction(nameof(Index));
         }
     }

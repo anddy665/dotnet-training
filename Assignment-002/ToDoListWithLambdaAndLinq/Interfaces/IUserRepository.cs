@@ -1,12 +1,12 @@
 ﻿using ToDoListWithLambdaAndLinq.Models;
-using System.Collections.Generic;
 
 namespace ToDoListWithLambdaAndLinq.Interfaces
 {
-    public interface IUserService
+    public interface IUserRepository
     {
         IEnumerable<User> GetAllUsers();
         User GetUserById(int id);
+        Task<User> GetUserByEmail(string email);
         void CreateUser(User user);
         void UpdateUser(User user);
         void DeleteUser(int id);

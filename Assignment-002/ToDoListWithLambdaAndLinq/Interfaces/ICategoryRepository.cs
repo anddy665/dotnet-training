@@ -2,7 +2,7 @@
 
 namespace ToDoListWithLambdaAndLinq.Interfaces
 {
-    public interface ICategoryService
+    public interface ICategoryRepository
     {
         IEnumerable<Category> GetAllCategories();
         Category GetCategoryById(int id);

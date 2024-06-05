@@ -6,22 +6,22 @@ namespace ToDoListWithLambdaAndLinq.Controllers
 {
     public class CategoryController : Controller
     {
-        private readonly ICategoryService _categoryService;
+        private readonly ICategoryRepository _categoryRepository;
 
-        public CategoryController(ICategoryService categoryService)
+        public CategoryController(ICategoryRepository categoryService)
         {
-            _categoryService = categoryService;
+            _categoryRepository = categoryService;
         }
 
         public IActionResult Index()
         {
-            var categories = _categoryService.GetAllCategories();
+            var categories = _categoryRepository.GetAllCategories();
             return View(categories);
         }
 
         public IActionResult Details(int id) 
         {
-            var category = _categoryService.GetCategoryById(id);
+            var category = _categoryRepository.GetCategoryById(id);
             if (category == null)
             {
                 return NotFound();
@@ -40,7 +40,7 @@ namespace ToDoListWithLambdaAndLinq.Controllers
         {
             if (ModelState.IsValid)
             {
-                _categoryService.CreateCategory(category);
+                _categoryRepository.CreateCategory(category);
                 return RedirectToAction("Index");
             }
             return View(category);
@@ -48,7 +48,7 @@ namespace ToDoListWithLambdaAndLinq.Controllers
 
         public IActionResult Edit(int id)
         {
-            var category = _categoryService.GetCategoryById(id);
+            var category = _categoryRepository.GetCategoryById(id);
             if (category == null)
             {
                 return NotFound();
@@ -62,7 +62,7 @@ namespace ToDoListWithLambdaAndLinq.Controllers
         {
             if (ModelState.IsValid)
             {
-                _categoryService.UpdateCategory(category);
+                _categoryRepository.UpdateCategory(category);
                 return RedirectToAction("Index");
             }
             return View(category);
@@ -70,7 +70,7 @@ namespace ToDoListWithLambdaAndLinq.Controllers
 
         public IActionResult Delete(int id)
         {
-            var category = _categoryService.GetCategoryById(id);
+            var category = _categoryRepository.GetCategoryById(id);
             if (category == null)
             {
                 return NotFound();
@@ -82,7 +82,7 @@ namespace ToDoListWithLambdaAndLinq.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult DeleteConfirmed(int id)
         {
-            _categoryService.DeleteCategory(id);
+            _categoryRepository.DeleteCategory(id);
             return RedirectToAction("Index");
         }
     }

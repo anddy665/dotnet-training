@@ -2,13 +2,13 @@
 using ToDoListWithLambdaAndLinq.Models;
 using ToDoListWithLambdaAndLinq.Data;
 
-namespace ToDoListWithLambdaAndLinq.Services
+namespace ToDoListWithLambdaAndLinq.Repositories
 {
-    public class UserService : IUserService
+    public class UserRepository : IUserRepository
     {
         private readonly NotesAppContext _context;
 
-        public UserService(NotesAppContext context)
+        public UserRepository(NotesAppContext context)
         {
             _context = context;
         }
@@ -22,6 +22,11 @@ namespace ToDoListWithLambdaAndLinq.Services
         public User GetUserById(int userId)
         {
             return _context.Users.FirstOrDefault(u => u.Id == userId);
+        }
+
+        public async Task<User> GetUserByEmail(string email)
+        {
+            return _context.Users.FirstOrDefault(u => u.Email == email);
         }
 
         public void CreateUser(User user)
