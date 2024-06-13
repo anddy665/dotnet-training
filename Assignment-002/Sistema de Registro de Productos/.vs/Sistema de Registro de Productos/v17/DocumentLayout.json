@@ -3,64 +3,106 @@
   "WorkspaceRootPath": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\Sistema de Registro de Productos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\repositories\\implementations\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\repositories\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\repositories\\implementations\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\interfaces\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\repositories\\interfaces\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\data\\notesappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\models\\notetag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\mutations\\mutationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\mutations\\tagmutationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\repositories\\registerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\type\\tagtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\type\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\interfaces\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\type\\notetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\type\\notetagtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54925315-CB77-4EA2-AF46-2BA8315709B0}|..\\ToDoListWithLambdaAndLinq\\ToDoListWithLambdaAndLinq.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistwithlambdaandlinq\\interfaces\\iregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\mutations\\categorymutationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\mutations\\notemutationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\type\\createtaginputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\queries\\querytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\queries\\userquerytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\queries\\notequerytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\queries\\categoryquerytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\mutations\\usermutationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\type\\createuserinputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\type\\createcategoryinputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\type\\createnoteinputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\graphql\\type\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4249D7D-74CC-4018-A31D-F0FB4D50F1C0}|..\\ToDoListGraph\\ToDoListGraphQL.csproj|c:\\users\\andhy\\documents\\dotnet-training\\assignment-002\\todolistgraph\\data\\todolistcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,268 +112,446 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ILoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\ILoginRepository.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\ILoginRepository.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\ILoginRepository.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\ILoginRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 17,
+              "Title": "NoteTagType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\NoteTagType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Type\\NoteTagType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\NoteTagType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Type\\NoteTagType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T21:14:02.142Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Repositories\\LoginRepository.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Repositories\\LoginRepository.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Repositories\\LoginRepository.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Repositories\\LoginRepository.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T21:14:41.225Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T17:28:28.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\UserController.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Controllers\\UserController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowCQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T16:57:24.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAswBcAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T16:55:17.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RegisterRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Repositories\\RegisterRepository.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Repositories\\RegisterRepository.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Repositories\\RegisterRepository.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Repositories\\RegisterRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:26:17.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IRegisterRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\IRegisterRepository.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\IRegisterRepository.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\IRegisterRepository.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\IRegisterRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:25:25.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegisterModel.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\RegisterModel.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Models\\RegisterModel.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\RegisterModel.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Models\\RegisterModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswBAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:24:47.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:28:20.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAmwCMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:23:49.281Z",
+              "WhenOpened": "2024-06-13T06:14:48.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Title": "TagMutationType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Mutations\\TagMutationType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Mutations\\TagMutationType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Mutations\\TagMutationType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Mutations\\TagMutationType.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:18:41.128Z",
+              "WhenOpened": "2024-06-13T06:05:46.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Models\\LoginModel.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Models\\LoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAWAAAA",
+              "DocumentIndex": 21,
+              "Title": "CreateTagInputType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\CreateTagInputType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Type\\CreateTagInputType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\CreateTagInputType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Type\\CreateTagInputType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T21:13:28.536Z",
+              "WhenOpened": "2024-06-13T06:04:58.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TagController.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\TagController.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Controllers\\TagController.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\TagController.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Controllers\\TagController.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAuwFgAAAAaAAAA",
+              "DocumentIndex": 14,
+              "Title": "TagType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\TagType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Type\\TagType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\TagType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Type\\TagType.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T20:59:55.539Z",
+              "WhenOpened": "2024-06-13T06:03:04.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NoteController.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\NoteController.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Controllers\\NoteController.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Controllers\\NoteController.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Controllers\\NoteController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T19:52:20.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Program.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Program.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T19:50:44.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "TagRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Repositories\\TagRepository.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Repositories\\TagRepository.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Repositories\\TagRepository.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Repositories\\TagRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAswBcAAAAnAAAA",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Implementations\\TagRepository.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Repositories\\Implementations\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Implementations\\TagRepository.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Repositories\\Implementations\\TagRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwC0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T19:35:13.762Z",
+              "WhenOpened": "2024-06-13T06:01:42.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Interfaces\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Repositories\\Interfaces\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Interfaces\\ITagRepository.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Repositories\\Interfaces\\ITagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:56:16.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserQueryType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Queries\\UserQueryType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Queries\\UserQueryType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Queries\\UserQueryType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Queries\\UserQueryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:46:12.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserMutationType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Mutations\\UserMutationType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Mutations\\UserMutationType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Mutations\\UserMutationType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Mutations\\UserMutationType.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:40:09.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateUserInputType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\CreateUserInputType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Type\\CreateUserInputType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\CreateUserInputType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Type\\CreateUserInputType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:38:40.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\UserType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Type\\UserType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\UserType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Type\\UserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:34:19.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Repositories\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Repositories\\Implementations\\UserRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:31:41.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:31:08.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryQueryType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Queries\\CategoryQueryType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Queries\\CategoryQueryType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Queries\\CategoryQueryType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Queries\\CategoryQueryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:18:24.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryMutationType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Mutations\\CategoryMutationType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Mutations\\CategoryMutationType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Mutations\\CategoryMutationType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Mutations\\CategoryMutationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:12:21.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateCategoryInputType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\CreateCategoryInputType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Type\\CreateCategoryInputType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\CreateCategoryInputType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Type\\CreateCategoryInputType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:10:16.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\CategoryType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Type\\CategoryType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\CategoryType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Type\\CategoryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:05:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:01:40.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "NotesAppContext.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Data\\NotesAppContext.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Data\\NotesAppContext.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Data\\NotesAppContext.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Data\\NotesAppContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T16:08:22.424Z",
+              "WhenOpened": "2024-06-13T05:00:54.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 29,
+              "Title": "CreateNoteInputType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\CreateNoteInputType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Type\\CreateNoteInputType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\CreateNoteInputType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Type\\CreateNoteInputType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:35:38.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MutationType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Mutations\\MutationType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Mutations\\MutationType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Mutations\\MutationType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Mutations\\MutationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:29:26.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NoteMutationType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Mutations\\NoteMutationType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Mutations\\NoteMutationType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Mutations\\NoteMutationType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Mutations\\NoteMutationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:29:12.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NoteType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\NoteType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Type\\NoteType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Type\\NoteType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Type\\NoteType.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:46:44.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "NoteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Repositories\\NoteRepository.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Repositories\\NoteRepository.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Repositories\\NoteRepository.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Repositories\\NoteRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAswCIAAAA3AAAA",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Implementations\\NoteRepository.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Repositories\\Implementations\\NoteRepository.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Implementations\\NoteRepository.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Repositories\\Implementations\\NoteRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA6wDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T16:06:53.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ITagRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\ITagRepository.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\ITagRepository.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\ITagRepository.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\ITagRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T15:40:11.54Z",
+              "WhenOpened": "2024-06-10T16:17:00.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "INoteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\INoteRepository.cs",
-              "RelativeDocumentMoniker": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\INoteRepository.cs",
-              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListWithLambdaAndLinq\\Interfaces\\INoteRepository.cs",
-              "RelativeToolTip": "..\\ToDoListWithLambdaAndLinq\\Interfaces\\INoteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Interfaces\\INoteRepository.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Repositories\\Interfaces\\INoteRepository.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Repositories\\Interfaces\\INoteRepository.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Repositories\\Interfaces\\INoteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T15:20:10.817Z",
+              "WhenOpened": "2024-06-10T16:15:31.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NoteQueryType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Queries\\NoteQueryType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Queries\\NoteQueryType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Queries\\NoteQueryType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Queries\\NoteQueryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:10:59.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QueryType.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Queries\\QueryType.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\GraphQL\\Queries\\QueryType.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\GraphQL\\Queries\\QueryType.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\GraphQL\\Queries\\QueryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:06:00.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Program.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Program.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:00:43.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\appsettings.json",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\appsettings.json",
+              "RelativeToolTip": "..\\ToDoListGraph\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T15:59:43.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ToDoListContext.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Data\\ToDoListContext.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Data\\ToDoListContext.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Data\\ToDoListContext.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Data\\ToDoListContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:53:28.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NoteTag.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Models\\NoteTag.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Models\\NoteTag.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Models\\NoteTag.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Models\\NoteTag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:52:14.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Models\\Note.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Models\\Note.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:51:26.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Models\\Tag.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:50:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Models\\Category.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:49:59.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\ToDoListGraph\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\andhy\\Documents\\dotnet-training\\Assignment-002\\ToDoListGraph\\Models\\User.cs",
+              "RelativeToolTip": "..\\ToDoListGraph\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:48:52.54Z",
               "EditorCaption": ""
             }
           ]

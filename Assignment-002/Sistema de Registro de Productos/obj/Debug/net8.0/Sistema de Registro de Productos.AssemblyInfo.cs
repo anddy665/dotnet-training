@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema de Registro de Productos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfdcdb9ba6c459a688208d6c5d719ed57e04aee2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37253e18d595efab7c20f53a3971b97a51d6a6c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema de Registro de Productos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema de Registro de Productos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
